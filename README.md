@@ -17,5 +17,5 @@
 
 ## Dataset
 Source : Kaggle
-This dataset contains student performance details such as scores, grades, and categorical features useful for analysis.
+- This dataset contains student performance details such as scores, grades, and categorical features useful for analysis.
 
